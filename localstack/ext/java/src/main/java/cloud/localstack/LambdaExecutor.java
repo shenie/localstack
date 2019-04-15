@@ -37,7 +37,7 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 
 /**
- * Simple implementation of a Java Lambda function executor.
+ * Simple implementation of a Java Lambda function executor. xxx
  *
  * @author Waldemar Hummer
  */
